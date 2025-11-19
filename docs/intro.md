@@ -4,7 +4,6 @@ Ceci est une documentation simple. Vous devez compléter ce fichier dans un tick
 Ceci est un exemple de paragraphe : pokijohujgytfcxdjlkmhyug-tifeydxsrf
 kjuhygtfrdxfcdgbhujoikpl
 uiyfdtredswtdxrt-tfcgtyygvhbjuiojnklm
-$
 
 GIT en 3 points : 
     - Outil de versionning 
